@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: web-rtc-testing-server
+
+livekit:
+  url: http://localhost:7880 #http://livekit
+  api-key: devkey
+  api-secret: secret
+
+server:
+  port: 8085
+
